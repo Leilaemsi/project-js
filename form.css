@@ -1,0 +1,70 @@
+body{
+   
+    background-color: #b2b6dd;
+   
+  }
+  h1{
+    color: blue;
+  }
+  #row{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    height: 35em;
+    width:  30em;
+    margin-top: 3em;
+    border-radius: 50px;
+    margin-left: 1%;
+    text-align:center;
+    background: hsla(0, 0%, 100%, 0.082);
+              backdrop-filter: blur(30px);
+              
+    position: absolute;z-index: 2;
+  }
+  .btn{
+    background-color: rgb(236, 15, 225);
+    color: rgb(96, 181, 230);
+  }
+  input{
+    text-align: center;
+    padding:  4px;
+  
+    outline: 1px solid black;
+  
+  }
+  img{
+    width: 40rem;
+    height: 32em;
+    position: absolute;   z-index: 1;
+    margin-left: 24em;
+    margin-top: 5em;
+    border-radius: 40px;
+  }
+  .container{
+   
+    position: relative;
+    display: flex;
+    width: 80%;
+   
+  }
+  
+  .btn{
+ width: 25em;
+  }
+  label{
+    
+    color: rgb(51, 96, 218);
+  }
+   input{
+
+    width: 25rem;
+    
+   }
+   p{
+    font-size: small;
+    color: red;
+    display: none;
+   }
+   input{
+    margin-bottom: 30px;
+   }
